@@ -1,0 +1,13 @@
+*/data**
+**/data
+*/tiger**
+**/tiger
+**/venv**
+**.idea
+**.project
+**.html
+**/__pycache__**
+**build**
+**egg**
+**target**
+**test**
